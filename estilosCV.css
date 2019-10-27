@@ -1,0 +1,122 @@
+@charset "ISO-8859-1";
+
+body{
+    background-image: url(fondo.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    font-family:Castellar;
+    text-shadow: 3px 3px 2px #696;
+    font-size: xxx-large;
+}
+
+h2{
+    text-align: center;
+    font-family: Californian FB;    
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.grey{
+    color: darkslategray;
+}
+
+.rose{
+    color: rosybrown;
+}
+
+table.one{
+    font-family: Cambria;
+    font-size: large;
+    text-align: center;
+    border-collapse: collapse;
+    border: 3px solid rosybrown;
+    width: 100%;
+
+}
+
+h3{
+    font-family: Britannic Bold;
+    font-size: xx-large;
+    color: indianred;
+    opacity: 100%;
+    font-weight: bolder;
+    margin-left: 3%;
+}
+
+table.two,td{
+    border-collapse: collapse;
+    border: 1px dotted black;
+    text-align: center;
+    font-family: Grotesque;
+    font-size: larger;
+}
+
+tr.or{
+    background-color: lightgrey;
+}
+
+li{
+    font-family: Corbel;
+    font-size: x-large;
+    list-style-type: square;
+    font-weight: bolder;
+}
+
+p.list{
+    font-family: Corbel;
+    font-size: x-large;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    color:darkslategray;
+}
+
+dt{
+    font-family: Corbel;
+    font-size: x-large; 
+    font-weight: bolder;
+    margin-left: 3%;
+}
+
+dd{
+    font-family: Corbel;
+    font-size: x-large;
+    color:darkslategray;
+    margin-left: 6%;  
+}
+
+.three{
+    font-family: Corbel;
+    font-size: x-large;
+    list-style-type: circle;
+    font-weight: bolder;
+}
+
+p.tongue{
+    font-family: Corbel;
+    font-size: x-large;
+    color:darkslategray;
+    margin-left: 4%;
+}
+
+p.hb{
+    font-family: Corbel;
+    font-size: x-large;
+    color: #1a000d;
+    margin-left: 5%;
+}
+
+p.vol{
+    font-family: Corbel;
+    font-size: x-large;
+    color: #222211;
+    margin-left: 5%;
+}
+
+table.contact{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
